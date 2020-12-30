@@ -1,2 +1,2 @@
 # python-sudoku
-Sudoku solver implemented in Python
+Sudoku solver implemented in Python using backtracking.
